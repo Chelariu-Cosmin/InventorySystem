@@ -1,0 +1,2 @@
+# InventorySystem
+ Spring Boot project
